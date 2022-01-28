@@ -331,7 +331,7 @@ def menu():
 
     print("")
 
-    print("\033[1;97m[0]\033[1;97mEXIT THE R4XEEL0")
+    print("\033[1;97m[0]\033[1;97mEXIT THE ARST")
 
     print("")
 
